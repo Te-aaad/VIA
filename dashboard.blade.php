@@ -205,19 +205,14 @@
                             </div>
                         </div>
                         
-                        <!-- Reviews icon -->
-                        <a href="#reviews-section" class="relative p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition duration-200 hover:scale-110 group">
-                            <iconify-icon icon="mdi:star" class="text-amber-400 group-hover:text-amber-500" width="24" height="24"></iconify-icon>
-                        </a>
+                      
                         
                         <!-- Cart icon -->
                         <a href="#" onclick="toggleCartPopup()" class="relative p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition duration-200 hover:scale-110 group">
                             <iconify-icon icon="mdi:cart" class="text-primary group-hover:text-accent" width="24" height="24"></iconify-icon>
                             <span id="cart-count" class="absolute -top-1 -right-1 bg-accent text-white text-xs rounded-full w-5 h-5 flex items-center justify-center font-semibold shadow-sm">0</span>
                         </a>
-                        <a href="#" class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition duration-200 hover:scale-110 group">
-                            <iconify-icon icon="mdi:account" class="text-primary group-hover:text-accent" width="24" height="24"></iconify-icon>
-                        </a>
+                       
                     </div>
             </div>
         </div>
